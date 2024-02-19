@@ -1,4 +1,13 @@
-### Hi there 👋
+### Olá eu sou Jean Pablo ###
+
+
+![Jean Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanPabloRocha&show_icons=true&theme=radical)
+
+## Tecnologias que eu uso em meu dia a dia: 
+
+- HTML / CSS / JAVA SCRIPT / PYTHON
+
+## Cursando Analise e Desenvolvimento de Sistemas
 
 <!--
 **JeanPabloRocha/JeanPabloRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
